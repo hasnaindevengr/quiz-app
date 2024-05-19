@@ -44,7 +44,7 @@ const App = () => {
     <div className="conainter-fluid bg-success-subtle bg-success-subtle">
       <div className="row align-items-center m-4 p-4">
         <div className="col-12">
-          <h1>Quiz App</h1>
+          <h1>NexusBeryy -Quiz App</h1>
           {/* <h2>{questions[activeQuestion].question}</h2> */}
           <h2>{question}</h2>
           <ul>
