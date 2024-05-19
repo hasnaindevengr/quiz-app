@@ -1,0 +1,11 @@
+*{
+  background-color: rgba(151, 242, 242, 0.175);
+}
+
+ul .rigt-answer{
+  color: green;
+}
+
+ul .wrong-answer{
+  color: red;
+}
